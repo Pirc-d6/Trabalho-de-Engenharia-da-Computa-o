@@ -68,6 +68,3 @@ node whileLoop.js
 - ✅ Arrays e iteração
 - ✅ Operadores aritméticos e incremento
 
-## 📝 Notas
-
-Todos os arquivos estão documentados com comentários explicativos em português para facilitar o aprendizado.
